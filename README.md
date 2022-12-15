@@ -7,7 +7,7 @@
 <h3>Alternate meathod</h3>
 <a href="https://prismatic-puffpuff-705375.netlify.app/">Click this link</a>
 <p>OR</p>
-<a href="https://hawkjack1729.github.io/spotify-clone/">Click this link</a>
+<a href="https://hawkjack1729.github.io/Spotify-clone/">Click this link</a>
 <h2>Badges</h2>
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/hawkjack1729/Spotify-clone?style=plastic" style="display:inline-block;">
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/hawkjack1729/Spotify-clone?style=plastic">
